@@ -1,3 +1,4 @@
 Write introduction section
 Acknowledgements
 Background
+List of authors
